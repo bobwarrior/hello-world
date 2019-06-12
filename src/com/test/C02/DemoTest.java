@@ -4,7 +4,8 @@ public class DemoTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		//add form local
+		System.out.println("this is a test");
 	}
 	/** Ò»¸öÀà×¢ÊÍ */
 	public class docTest {
@@ -36,4 +37,5 @@ public class DemoTest {
 			break
 		System.out.print(i);
 	}
+	
 }
