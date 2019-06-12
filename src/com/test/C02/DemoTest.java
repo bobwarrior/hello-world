@@ -6,12 +6,13 @@ public class DemoTest {
 		// TODO Auto-generated method stub
 		//add form local
 		System.out.println("this is a test");
+		System.out.println("this a edit from web");
 	}
-	/** Ò»¸öÀà×¢ÊÍ */
+	/** ä¸€ä¸ªç±»æ³¨é‡Š */
 	public class docTest {
-	/** Ò»¸ö±äÁ¿×¢ÊÍ */
+	/** ä¸€ä¸ªå˜é‡æ³¨é‡Š */
 	public int i;
-	/** Ò»¸ö·½·¨×¢ÊÍ */
+	/** ä¸€ä¸ªæ–¹æ³•æ³¨é‡Š */
 	public void f() {}
 	}
 	/**
@@ -21,11 +22,11 @@ public class DemoTest {
 	*/
 	
 	/**
-	* Äú<em>ÉõÖÁ</em>¿ÉÒÔ²åÈëÒ»¸öÁĞ±í£º
+	* æ‚¨<em>ç”šè‡³</em>å¯ä»¥æ’å…¥ä¸€ä¸ªåˆ—è¡¨ï¼š
 	* <ol>
-	* <li> ÏîÄ¿Ò»
-	* <li> ÏîÄ¿¶ş
-	* <li> ÏîÄ¿Èı
+	* <li> é¡¹ç›®ä¸€
+	* <li> é¡¹ç›®äºŒ
+	* <li> é¡¹ç›®ä¸‰
 	* </ol>
 	*/
 	
